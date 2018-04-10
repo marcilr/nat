@@ -1,0 +1,12 @@
+links.txt
+Created Tue Apr 10 10:07:21 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+NAT related links
+
+
+Links
+=====
+NAT is Network Address Translation
+https://cromwell-intl.com/networking/nat.html
