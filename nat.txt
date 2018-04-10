@@ -1,0 +1,6 @@
+nat.txt
+Created Tue Apr 10 10:09:11 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+NAT (Network Address Translation)
